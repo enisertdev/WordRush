@@ -1,0 +1,11 @@
+C:\Users\admin\WebGame\WebGameAPI\Core\WebGame.Domain\bin\Debug\net8.0\WebGame.Domain.deps.json
+C:\Users\admin\WebGame\WebGameAPI\Core\WebGame.Domain\bin\Debug\net8.0\WebGame.Domain.dll
+C:\Users\admin\WebGame\WebGameAPI\Core\WebGame.Domain\bin\Debug\net8.0\WebGame.Domain.pdb
+C:\Users\admin\WebGame\WebGameAPI\Core\WebGame.Domain\obj\Debug\net8.0\WebGame.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\WebGame\WebGameAPI\Core\WebGame.Domain\obj\Debug\net8.0\WebGame.Domain.AssemblyInfoInputs.cache
+C:\Users\admin\WebGame\WebGameAPI\Core\WebGame.Domain\obj\Debug\net8.0\WebGame.Domain.AssemblyInfo.cs
+C:\Users\admin\WebGame\WebGameAPI\Core\WebGame.Domain\obj\Debug\net8.0\WebGame.Domain.csproj.CoreCompileInputs.cache
+C:\Users\admin\WebGame\WebGameAPI\Core\WebGame.Domain\obj\Debug\net8.0\WebGame.Domain.dll
+C:\Users\admin\WebGame\WebGameAPI\Core\WebGame.Domain\obj\Debug\net8.0\refint\WebGame.Domain.dll
+C:\Users\admin\WebGame\WebGameAPI\Core\WebGame.Domain\obj\Debug\net8.0\WebGame.Domain.pdb
+C:\Users\admin\WebGame\WebGameAPI\Core\WebGame.Domain\obj\Debug\net8.0\ref\WebGame.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\admin\WebGame\WebGameAPI\Core\WebGame.Application\bin\Debug\net8.0\WebGame.Application.deps.json
+C:\Users\admin\WebGame\WebGameAPI\Core\WebGame.Application\bin\Debug\net8.0\WebGame.Application.dll
+C:\Users\admin\WebGame\WebGameAPI\Core\WebGame.Application\bin\Debug\net8.0\WebGame.Application.pdb
+C:\Users\admin\WebGame\WebGameAPI\Core\WebGame.Application\bin\Debug\net8.0\WebGame.Domain.dll
+C:\Users\admin\WebGame\WebGameAPI\Core\WebGame.Application\bin\Debug\net8.0\WebGame.Domain.pdb
+C:\Users\admin\WebGame\WebGameAPI\Core\WebGame.Application\obj\Debug\net8.0\WebGame.Application.csproj.AssemblyReference.cache
+C:\Users\admin\WebGame\WebGameAPI\Core\WebGame.Application\obj\Debug\net8.0\WebGame.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\WebGame\WebGameAPI\Core\WebGame.Application\obj\Debug\net8.0\WebGame.Application.AssemblyInfoInputs.cache
+C:\Users\admin\WebGame\WebGameAPI\Core\WebGame.Application\obj\Debug\net8.0\WebGame.Application.AssemblyInfo.cs
+C:\Users\admin\WebGame\WebGameAPI\Core\WebGame.Application\obj\Debug\net8.0\WebGame.Application.csproj.CoreCompileInputs.cache
+C:\Users\admin\WebGame\WebGameAPI\Core\WebGame.Application\obj\Debug\net8.0\WebGame..ACC3EFFC.Up2Date
+C:\Users\admin\WebGame\WebGameAPI\Core\WebGame.Application\obj\Debug\net8.0\WebGame.Application.dll
+C:\Users\admin\WebGame\WebGameAPI\Core\WebGame.Application\obj\Debug\net8.0\refint\WebGame.Application.dll
+C:\Users\admin\WebGame\WebGameAPI\Core\WebGame.Application\obj\Debug\net8.0\WebGame.Application.pdb
+C:\Users\admin\WebGame\WebGameAPI\Core\WebGame.Application\obj\Debug\net8.0\ref\WebGame.Application.dll

@@ -1,0 +1,41 @@
+﻿<html>
+<head>
+</head>
+<body>
+    <div>
+        <h1>Your Name</h1>
+        <input id="userNameInput" name="userName" />
+        <button id="userRegisterBtn" type="submit">Register</button>
+
+    </div>
+    <script>
+        const registerBtn = document.getElementById("userRegisterBtn")
+
+
+        registerBtn.addEventListener("click", async() =>{
+            const userName = document.getElementById("userNameInput").value;
+            await register(userName);
+        });
+
+        async function register(userName){
+             const response = await fetch("https://localhost:7123/api/users",{
+            method:"POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({name: userName, connectionId: "test"})
+            });
+
+            const json = await response.json();
+            if(!response.ok)
+            {
+                console.log(json.message);
+                return;
+            }
+            localStorage.setItem("userId", json.userId);
+            console.log(json);
+            window.location.href = "/Home/Privacy";
+        }
+    </script>
+</body>
+</html>

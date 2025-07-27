@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "VeBZrpK4KaGzQCntnRB5S5EDwFdoh8IoSw0+KANKIFo=",
+  "Source": "WebGame.API",
+  "BasePath": "_content/WebGame.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

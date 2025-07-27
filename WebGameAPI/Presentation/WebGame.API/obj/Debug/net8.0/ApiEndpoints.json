@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "WebGame.API.Controllers.LobbiesController",
+    "Method": "GetAllLobbies",
+    "RelativePath": "api/Lobbies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebGame.API.Controllers.LobbiesController",
+    "Method": "JoinLobby",
+    "RelativePath": "api/Lobbies/{lobbyId}/join",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "lobbyId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebGame.API.Controllers.LobbiesController",
+    "Method": "CreateLobby",
+    "RelativePath": "api/Lobbies/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "lobbyCreateRequest",
+        "Type": "WebGame.API.Controllers.LobbiesController\u002BLobbyCreateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebGame.API.Controllers.UsersController",
+    "Method": "CreateUser",
+    "RelativePath": "api/Users",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userRequest",
+        "Type": "WebGame.API.Controllers.UsersController\u002BCreateUserRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
